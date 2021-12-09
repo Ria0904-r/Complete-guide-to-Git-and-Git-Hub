@@ -50,5 +50,34 @@ git config --global user.email “email” (For giving email address)
 git config --list (Command for getting user details)
 
 
+4) Command Line Basics
+
+Commands
+
+pwd - prints path of the current directory
+
+cd <path> - changes the directory to a given path.
+
+cd.. - Rollback to the previous folder.
+
+mkdir <name> - Makes a directory with a given name.
+
+mkdir <name1> <name2> - Creates different directories with given names.
+
+mkdir -p <name1> <name2> - Makes a folder of name name2 inside folder name1
+
+ls - List all the files available in a given directory.
+
+touch <filename> - Creates the file with name specified
+ 
+rm <filename> - Deletes the file specified in file name.
+
+rmdir <name> - Deletes the directory with given name
+
+cp <src> <dest> - Copy the files from source and paste them in the destination path.
+
+cp -R <src> <dest> - Copy the directory from source and paste them in the destination path.
+
+mv <src> <dest> - Moves the files from source and pastes them in destination path
 
 
