@@ -40,6 +40,15 @@ The most popular distributed version control systems are Git, Mercurial. They he
 NOTE : GIT IS A DISTRIBUTED VCS.
 
 
+3) Commands to install GIT to your system
+git --version (checks the version installed)
+
+git config --global user.name “Name” (For giving name)
+
+git config --global user.email “email” (For giving email address)
+
+git config --list (Command for getting user details)
+
 
 
 
