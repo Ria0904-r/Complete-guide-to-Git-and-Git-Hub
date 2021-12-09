@@ -37,6 +37,8 @@ Two things are required to make your changes visible to others which are:
 •	They update
 The most popular distributed version control systems are Git, Mercurial. They help us overcome the problem of single point of failure. 
 
+NOTE : GIT IS A DISTRIBUTED VCS.
+
 
 
 
