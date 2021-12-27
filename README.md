@@ -79,5 +79,17 @@ cp <src> <dest> - Copy the files from source and paste them in the destination p
 cp -R <src> <dest> - Copy the directory from source and paste them in the destination path.
 
 mv <src> <dest> - Moves the files from source and pastes them in destination path
+ 
+git init -  It initializes a git repository
+git add filename - Adds file/folder to the staging area.
+
+git add --all / git add -A/ git add . - Adds all the files to the staging area
+
+git commit -m “message” - Adds staged changes to the local repository.
+ 
+git status - Check the status of a staging area
+
+git log- Command for checking the history of commits
+ 
 
 
